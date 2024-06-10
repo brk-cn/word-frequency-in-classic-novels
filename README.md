@@ -5,16 +5,22 @@ This Python project analyzes word frequency in classic novels available on Proje
 
 ## Installation
 1. **Clone the repository:**
-```git clone https://github.com/brk-cn/word-frequency-in-classic-novels.git```
+```
+git clone https://github.com/brk-cn/word-frequency-in-classic-novels.git
+```
 
 2. **Navigate to the project directory:**
-```cd word-frequency-in-classic-novels```
+```
+cd word-frequency-in-classic-novels
+```
 
 3. **Install the required dependencies:**
-```pip install requests beautifulsoup4 nltk```
+```
+pip install requests beautifulsoup4 nltk
+```
 
 ## Usage
-1. **Run the Jupyter Notebook** `notebook.ipynb`**:**
+1. **Run the Jupyter Notebook** `notebook.ipynb`
 
 ## License
 This project is licensed under the MIT License.
